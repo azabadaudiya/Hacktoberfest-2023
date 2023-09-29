@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jayesh Jain](https://github.com/Jayesh-JainX)
+- Place: Pune, India
+- Bio: Python devloper
+- Github: [Jayesh Jain](https://github.com/Jayesh-JainX)
