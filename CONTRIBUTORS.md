@@ -1,3 +1,8 @@
+#### Name: [Azaba Daudiya](https://github.com/azabadaudiya)
+ - Place: Gujarat, India
+ - Bio: Pre Final Year, Computer Science student at GEC Gandhinagar
+ - GitHub: [Azaba](https://github.com/azabadaudiya)
+ - 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
